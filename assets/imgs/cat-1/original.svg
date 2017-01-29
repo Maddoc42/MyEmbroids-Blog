@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1307"
+   viewBox="0 0 383.42081 249.42591"
+   version="1.1"
+   sodipodi:docname="cat.svg"
+   width="383.42081"
+   height="249.4259"
+   inkscape:version="0.92.0 unknown"
+   inkscape:export-filename="/home/maddoc/android/MyEmbroids-Blog/assets/imgs/santa-claus-cat.png"
+   inkscape:export-xdpi="254"
+   inkscape:export-ydpi="254">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1125"
+     id="namedview56"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9459196"
+     inkscape:cx="208.28087"
+     inkscape:cy="104.57551"
+     inkscape:window-x="1680"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4565" />
+  <defs
+     id="defs1309">
+    <filter
+       id="filter4588"
+       width="1.2846"
+       y="-0.14165001"
+       x="-0.14232001"
+       height="1.2833"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4590"
+         stdDeviation="2.4208769" />
+    </filter>
+    <radialGradient
+       id="radialGradient3245"
+       gradientUnits="userSpaceOnUse"
+       cy="37.75"
+       cx="-6"
+       gradientTransform="matrix(1,0,0,0.26786,0,27.638)"
+       r="14">
+      <stop
+         id="stop2307-7-6-6-4"
+         offset="0" />
+      <stop
+         id="stop2309-1-2-7-0"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient3247"
+       x1="-13.09"
+       gradientUnits="userSpaceOnUse"
+       y1="-0.49584001"
+       gradientTransform="matrix(8.1198,-2.4401,2.4561,8.1731,1296.9,-556.55)"
+       x2="-9.5621004"
+       y2="8.9300003">
+      <stop
+         id="stop4296"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop4298"
+         stop-color="#ffaa6e"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3249"
+       x1="-13.09"
+       gradientUnits="userSpaceOnUse"
+       y1="-0.49584001"
+       gradientTransform="matrix(-8.1198,-2.4401,-2.4561,8.1731,1311.1,-556.57)"
+       x2="-9.5621004"
+       y2="8.9300003">
+      <stop
+         id="stop4296-5"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop4298-7"
+         stop-color="#ffaa6e"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-1060.7315,569.17289)">
+    <g
+       id="g3205">
+      <g
+         id="g4897"
+         transform="translate(-13.361292,34.944917)">
+        <g
+           id="g4565"
+           transform="translate(-43.167247,-48.306209)">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1434.9,-420.36 c 6.6431,2.5385 11.269,3.4716 13.81,6.0782 -3.7134,3.8674 -14.317,4.6773 -14.999,6.6106 -0.7482,2.1197 11.034,3.4731 14.278,6.4795 -2.5988,3.2603 -16.547,7.0029 -15.934,9.2615 0.5053,1.8602 6.6537,1.5556 10.306,3.0705 -3.3816,3.1797 -7.9164,6.199 -11.032,8.829 -1.9987,1.6871 -2.7162,2.3456 -3.2564,3.2859 -0.6613,1.1512 6.9045,1.7757 7.5484,2.2649 -23.078,21.468 -43.611,42.196 -57.799,49.257 -8.2726,4.1168 -45.87,11.472 -53.47,14.602 -7.6001,3.13 -12.329,4.2889 -17.998,4.2333 -7.406,-0.0727 -20.339,-3.8011 -26.24,-5.2535 -14.025,-3.452 -25.613,-4.3917 -38.76,-8.1872 -19.15,-5.5288 -37.462,-24.601 -62.014,-46.579 -4.2027,-3.8842 -4.9596,-5.0077 -7.9135,-8.3613 -0.1215,-0.13792 9.1805,-1.0072 8.1543,-1.8847 -3.0433,-2.6021 -9.2027,-8.0017 -13.521,-11.324 7.26,-3.441 10.414,-1.8347 9.8461,-3.5894 -0.4444,-1.373 -8.541,-4.4486 -16.026,-9.3603 7.5748,-3.3222 14.512,-4.2585 14.168,-5.689 -0.7678,-3.1978 -10.619,-3.0022 -15.468,-7.4848 2.789,-1.4677 4.3502,-2.7471 14.724,-5.6535 2.2737,-0.63702 7.7224,-2.7512 10.726,-4.5188 -4.2754,-31.664 54.333,-92.761 120.35,-94.279 66.018,-1.5175 111.39,50.387 117.34,88.747 0.96,6.1855 0.431,5.8944 13.18,9.4448 z"
+             style="color:#000000;fill:#684444;fill-rule:evenodd"
+             id="path5050-8-0-2" />
+          <g
+             style="fill-rule:evenodd"
+             transform="matrix(-1,0,0,1,2611.8,64.615)"
+             id="g4394-9">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 1274.1,-561.66 c -15.768,15.286 -25.804,20.424 -34.908,29.198 -17.181,16.56 -24.931,24.702 -40.251,-6.0036 -4.8084,-9.6374 -7.2256,-22.674 -8.7886,-31.991 -2.6985,-16.085 -3.3112,-19.665 -3.3452,-49.97 19.47,1.8906 32.668,5.7331 47.653,12.133 12.716,5.431 25.02,15.045 43.813,42.461 z"
+               style="color:#000000;fill:#684444"
+               id="path5046-4-26-8-4-9" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 1270.2,-559.95 c -10,16.32 -15.448,22.233 -29.027,29.826 -19.205,10.74 -20.036,18.432 -34.815,-1.3243 -8.2543,-11.035 -13.072,-33.853 -14.323,-45.021 -2.8669,-25.587 -1.2711,-16.38 -2.4061,-40.195 15.637,2.4839 19.386,2.23 40.67,9.9942 14.155,5.1638 19.976,11.105 32.878,26.532 12.629,15.101 10.955,13.77 7.0224,20.188 z"
+               style="color:#000000;fill:#f7941d"
+               id="path5046-4-7-2-5-2-9" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1270.3,-497.02 c -15.768,15.286 -25.804,20.424 -34.908,29.198 -17.181,16.56 -24.931,24.702 -40.251,-6.0036 -4.8084,-9.6374 -7.2256,-22.674 -8.7886,-31.991 -2.6985,-16.085 -3.3112,-19.665 -3.3452,-49.97 19.47,1.8906 32.668,5.7331 47.653,12.133 12.716,5.431 25.02,15.045 43.813,42.461 z"
+             style="color:#000000;fill:#684444;fill-rule:evenodd"
+             id="path5046-4-26-8-4" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1266.4,-495.32 c -10,16.32 -15.448,22.233 -29.027,29.826 -19.205,10.74 -20.036,18.432 -34.815,-1.3243 -8.2543,-11.035 -13.072,-33.853 -14.323,-45.021 -2.8669,-25.587 -1.2711,-16.38 -2.4061,-40.195 15.637,2.4839 19.386,2.23 40.67,9.9942 14.155,5.1638 19.976,11.105 32.878,26.532 12.629,15.101 10.955,13.77 7.0224,20.188 z"
+             style="color:#000000;fill:#f7941d;fill-rule:evenodd"
+             id="path5046-4-7-2-5-2" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1223.4,-431.59 c -6.4432,-21.441 -29.18,-69.89 -27.108,-97.403 95.819,34.152 55.989,87.467 27.108,97.403 z"
+             style="color:#000000;fill:#ffffff;fill-rule:evenodd;fill-opacity:1"
+             id="path5046-4-7-2-5-6-2" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1384.6,-431.61 c 6.4432,-21.441 29.18,-69.89 27.108,-97.403 -95.819,34.152 -55.989,87.467 -27.108,97.403 z"
+             style="color:#000000;fill:#ffffff;fill-rule:evenodd;fill-opacity:1"
+             id="path5046-4-7-2-5-6-2-4" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 1430.1,-419.33 c 5.4954,2.0808 11.74,2.6144 14.039,5.1265 -3.5313,2.5389 -12.855,1.8652 -13.828,6.4622 -0.7661,3.6215 9.897,4.4439 12.832,6.5186 -2.5229,2.5936 -12.337,4.8886 -14.673,8.9254 -1.7933,3.0991 5.7624,2.8702 9.0666,4.3302 -3.1453,2.1504 -6.2186,4.6945 -9.0374,7.2291 -1.8083,1.6259 -3.5118,3.2479 -5.0624,4.7594 -0.739,0.72035 7.0366,1.8797 7.6191,2.3512 -21.738,20.689 -46.164,43.103 -59.172,47.714 -7.9325,2.8117 -42.671,9.6691 -49.547,12.685 -6.8762,3.0164 -10.155,3.6006 -15.283,3.547 -6.7006,-0.07 -13.181,-1.6015 -18.52,-3.0012 -12.69,-3.3267 -32.651,-7.2196 -44.761,-9.9583 -17.498,-3.9572 -45.736,-28.75 -67.778,-50.663 5.3497,-1.088 7.9378,-1.6371 7.9253,-2.0356 -0.01,-0.17681 -3.0302,-2.976 -3.9587,-3.8216 -2.7534,-2.5077 -6.1262,-5.1208 -10.034,-8.3226 6.5685,-1.9451 9.2409,-1.1007 8.8562,-4.0076 -0.2889,-2.1837 -8.5159,-5.9019 -14.43,-9.2643 6.4243,-2.5619 13.981,-3.4395 12.697,-6.5167 -1.727,-4.1389 -8.94,-4.2506 -13.995,-6.373 2.5233,-1.4144 4.7246,-1.9365 14.778,-5.3191 2.0371,-0.68545 6.3648,-2.0846 9.0827,-3.7881 -3.9687,-34.616 56.356,-93.493 117.46,-93.493 61.103,2e-5 103.3,40.869 114.4,84.796 2.1988,8.6968 -0.2107,8.6968 11.324,12.118 z"
+             style="color:#000000;fill:#f7941d;fill-rule:evenodd"
+             id="path5050-8-0" />
+          <g
+             transform="matrix(3.1057,0,0,3.1057,1417.7,-513)"
+             id="g5058-1-5-0-5">
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 177.14,592.36 c 0,31.559 -25.584,57.143 -57.143,57.143 -31.559,0 -57.143,-25.584 -57.143,-57.143 0,-31.559 25.584,-57.143 57.143,-57.143 31.559,0 57.143,25.584 57.143,57.143 z"
+               transform="matrix(0.17771,0,0,0.17771,-42.905,-80.331)"
+               id="path5060-6-7-9-7" />
+            <path
+               style="stroke:#000000;stroke-width:0.1"
+               inkscape:connector-curvature="0"
+               d="m 177.14,592.36 c 0,31.559 -25.584,57.143 -57.143,57.143 -31.559,0 -57.143,-25.584 -57.143,-57.143 0,-31.559 25.584,-57.143 57.143,-57.143 31.559,0 57.143,25.584 57.143,57.143 z"
+               transform="matrix(0.11892,0,0,0.13546,-35.976,-55.558)"
+               id="path5062-8-8-5-6" />
+            <path
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               inkscape:connector-curvature="0"
+               transform="matrix(0.044528,0,0,0.044528,-26.134,-5.617)"
+               d="m 177.14,592.36 c 0,31.559 -25.584,57.143 -57.143,57.143 -31.559,0 -57.143,-25.584 -57.143,-57.143 0,-31.559 25.584,-57.143 57.143,-57.143 31.559,0 57.143,25.584 57.143,57.143 z"
+               id="path5064-5-2-8-1" />
+          </g>
+          <g
+             transform="matrix(3.1057,0,0,3.1057,1328.1,-513)"
+             id="g5066-7-7-9-8">
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 177.14,592.36 c 0,31.559 -25.584,57.143 -57.143,57.143 -31.559,0 -57.143,-25.584 -57.143,-57.143 0,-31.559 25.584,-57.143 57.143,-57.143 31.559,0 57.143,25.584 57.143,57.143 z"
+               transform="matrix(0.17771,0,0,0.17771,-42.905,-80.331)"
+               id="path5068-6-8-0-9" />
+            <path
+               style="stroke:#000000;stroke-width:0.1"
+               inkscape:connector-curvature="0"
+               d="m 177.14,592.36 c 0,31.559 -25.584,57.143 -57.143,57.143 -31.559,0 -57.143,-25.584 -57.143,-57.143 0,-31.559 25.584,-57.143 57.143,-57.143 31.559,0 57.143,25.584 57.143,57.143 z"
+               transform="matrix(0.11892,0,0,0.13546,-35.976,-55.558)"
+               id="path5070-1-0-0-2" />
+            <path
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.1"
+               inkscape:connector-curvature="0"
+               transform="matrix(0.044528,0,0,0.044528,-26.134,-5.617)"
+               d="m 177.14,592.36 c 0,31.559 -25.584,57.143 -57.143,57.143 -31.559,0 -57.143,-25.584 -57.143,-57.143 0,-31.559 25.584,-57.143 57.143,-57.143 31.559,0 57.143,25.584 57.143,57.143 z"
+               id="path5072-8-2-0-7" />
+          </g>
+          <path
+             style="fill:none;stroke:#684444;stroke-width:4.40859985"
+             inkscape:connector-curvature="0"
+             d="m 1248.8,-352.94 c 0,0 2.3675,10.223 13.334,13.878 10.715,3.5703 15.974,3.5185 26.494,0.0823 11.35,-3.7072 14.756,-25.49 19.048,-25.593 3.8679,-0.0925 8.892,21.875 18.746,25.511 10.012,3.6944 15.441,2.6518 26.012,0 10.572,-2.6521 12.205,-9.0514 14.86,-16.592"
+             id="path4490" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1232.2,-408.13 c 0,0 -41.351,-23.521 -68.286,-22.003 -26.935,1.5175 -35.281,6.8286 -35.281,6.8286"
+             id="path5144-4" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1228.8,-391.59 c 0,0 -38.395,-14.365 -62.711,-11.43 -24.316,2.9351 -35.89,12.571 -35.89,12.571"
+             id="path5146-1" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1197.4,-380.05 c 0,0 -32.82,1.5359 -42.489,4.1731 -25.038,6.8286 -37.178,16.692 -37.178,16.692"
+             id="path5148-2" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1238.5,-357.13 c 0,0 -30.906,6.2937 -39.326,10.314 -16.938,8.0876 -16.636,9.5747 -31.616,25.394"
+             id="path5150-5" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1224.9,-371.42 c 0,0 -28.073,1.5175 -37.937,6.0699 -9.8636,4.5524 -27.694,10.243 -33.384,20.486"
+             id="path5152-9" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ff0000;fill-opacity:1"
+             d="m 1307,-363.69 c -2.6068,-0.0518 -5.1438,0.11013 -8.6606,-2.3623 -3.5168,-2.47243 -5.5646,-3.621 -7.4926,-8.0457 -1.928,-4.4247 -6.5964,-13.859 -2.4605,-17.805 4.1358,-3.9464 32.095,-3.0182 38.048,0 5.9531,3.0182 -1.0033,14.404 -2.6734,17.471 -1.6701,3.0674 -4.2438,5.9584 -7.3085,8.5807 -3.0647,2.6223 -6.8712,2.2127 -9.4528,2.1614 z"
+             id="path3919-9-5-4" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1377.8,-407.58 c 0,0 41.351,-23.521 68.286,-22.003 26.935,1.5175 35.281,6.8286 35.281,6.8286"
+             id="path5144-4-0" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1401.6,-395.34 c 0,0 38.395,-14.365 62.711,-11.43 24.316,2.9351 35.89,12.571 35.89,12.571"
+             id="path5146-1-0" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1405.1,-383.26 c 0,0 32.82,1.5359 42.489,4.1731 25.038,6.8286 37.178,16.692 37.178,16.692"
+             id="path5148-2-3" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1387.1,-359.8 c 0,0 30.906,6.2937 39.326,10.314 16.938,8.0876 16.636,9.5747 31.616,25.394"
+             id="path5150-5-8" />
+          <path
+             style="fill:none;stroke:#684444;stroke-width:1.5"
+             inkscape:connector-curvature="0"
+             d="m 1379.3,-373.55 c 0,0 28.073,1.5175 37.937,6.0699 9.8636,4.5524 27.694,10.243 33.384,20.486"
+             id="path5152-9-1" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata53">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2010-12-25T00:43:31</dc:date>
+        <dc:description>Funny cat face with Santa Claus hat - Drôle de museau de petit chat avec bonnet du Père Noël - Lustige Katze Gesicht mit Weihnachtsmann Hut - Musetto di gattino divertente con berretto del Babbo Natale (partially remixed from &quot;Martouf&quot; and &quot;stephantom&quot; work)</dc:description>
+        <dc:source>http://openclipart.org/detail/101869/funny-kitty-face-with-santa-claus-hat-by-palomaironique</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>palomaironique</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Bild</rdf:li>
+            <rdf:li>Christmas</rdf:li>
+            <rdf:li>Claus</rdf:li>
+            <rdf:li>Festtage</rdf:li>
+            <rdf:li>Gesicht</rdf:li>
+            <rdf:li>Grafik</rdf:li>
+            <rdf:li>Greetings</rdf:li>
+            <rdf:li>Haustier</rdf:li>
+            <rdf:li>Hombre</rdf:li>
+            <rdf:li>Hut</rdf:li>
+            <rdf:li>Ikone</rdf:li>
+            <rdf:li>Katze</rdf:li>
+            <rdf:li>Katzen</rdf:li>
+            <rdf:li>Kopf</rdf:li>
+            <rdf:li>Kätzchen</rdf:li>
+            <rdf:li>Man</rdf:li>
+            <rdf:li>Medien</rdf:li>
+            <rdf:li>Miezekatze</rdf:li>
+            <rdf:li>Mütze</rdf:li>
+            <rdf:li>Nase</rdf:li>
+            <rdf:li>Natale</rdf:li>
+            <rdf:li>Navidad</rdf:li>
+            <rdf:li>Noël</rdf:li>
+            <rdf:li>Plüsch</rdf:li>
+            <rdf:li>Santa</rdf:li>
+            <rdf:li>Season</rdf:li>
+            <rdf:li>Spielzeug</rdf:li>
+            <rdf:li>Symbol</rdf:li>
+            <rdf:li>Säugetier</rdf:li>
+            <rdf:li>Tier</rdf:li>
+            <rdf:li>Vektor</rdf:li>
+            <rdf:li>Weihnachten</rdf:li>
+            <rdf:li>Weihnachtsgrüsse</rdf:li>
+            <rdf:li>Weihnachtsmann</rdf:li>
+            <rdf:li>Zeichen</rdf:li>
+            <rdf:li>animal</rdf:li>
+            <rdf:li>animale</rdf:li>
+            <rdf:li>auguri</rdf:li>
+            <rdf:li>babbo</rdf:li>
+            <rdf:li>berretto</rdf:li>
+            <rdf:li>bonnet</rdf:li>
+            <rdf:li>buone</rdf:li>
+            <rdf:li>cappello</rdf:li>
+            <rdf:li>cartoon</rdf:li>
+            <rdf:li>cat</rdf:li>
+            <rdf:li>chapeau</rdf:li>
+            <rdf:li>chat</rdf:li>
+            <rdf:li>chaton</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>comics</rdf:li>
+            <rdf:li>compagnie</rdf:li>
+            <rdf:li>cucciolo</rdf:li>
+            <rdf:li>domain</rdf:li>
+            <rdf:li>domaine</rdf:li>
+            <rdf:li>domestico</rdf:li>
+            <rdf:li>faccia</rdf:li>
+            <rdf:li>faccina</rdf:li>
+            <rdf:li>face</rdf:li>
+            <rdf:li>feline</rdf:li>
+            <rdf:li>felino</rdf:li>
+            <rdf:li>feliz</rdf:li>
+            <rdf:li>feste</rdf:li>
+            <rdf:li>frohe</rdf:li>
+            <rdf:li>fumetti</rdf:li>
+            <rdf:li>fumetto</rdf:li>
+            <rdf:li>félin</rdf:li>
+            <rdf:li>fêtes</rdf:li>
+            <rdf:li>gattino</rdf:li>
+            <rdf:li>gatto</rdf:li>
+            <rdf:li>giocattolo</rdf:li>
+            <rdf:li>giochi</rdf:li>
+            <rdf:li>grafica</rdf:li>
+            <rdf:li>graphic</rdf:li>
+            <rdf:li>graphique</rdf:li>
+            <rdf:li>hat</rdf:li>
+            <rdf:li>head</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>icona</rdf:li>
+            <rdf:li>icône</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>immagine</rdf:li>
+            <rdf:li>jouet</rdf:li>
+            <rdf:li>joyeuses</rdf:li>
+            <rdf:li>kitty</rdf:li>
+            <rdf:li>klein</rdf:li>
+            <rdf:li>mammal</rdf:li>
+            <rdf:li>mammifero</rdf:li>
+            <rdf:li>mammifère</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>meilleurs</rdf:li>
+            <rdf:li>meow</rdf:li>
+            <rdf:li>miagolare</rdf:li>
+            <rdf:li>miagolio</rdf:li>
+            <rdf:li>miao</rdf:li>
+            <rdf:li>miaou</rdf:li>
+            <rdf:li>miauen</rdf:li>
+            <rdf:li>miaulement</rdf:li>
+            <rdf:li>micetto</rdf:li>
+            <rdf:li>micio</rdf:li>
+            <rdf:li>minou</rdf:li>
+            <rdf:li>museau</rdf:li>
+            <rdf:li>musetto</rdf:li>
+            <rdf:li>muso</rdf:li>
+            <rdf:li>peluche</rdf:li>
+            <rdf:li>pet</rdf:li>
+            <rdf:li>petit</rdf:li>
+            <rdf:li>piccolo</rdf:li>
+            <rdf:li>plush</rdf:li>
+            <rdf:li>public</rdf:li>
+            <rdf:li>pussycat</rdf:li>
+            <rdf:li>père</rdf:li>
+            <rdf:li>saludos</rdf:li>
+            <rdf:li>signe</rdf:li>
+            <rdf:li>small</rdf:li>
+            <rdf:li>snuggy</rdf:li>
+            <rdf:li>sombrero</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>symbole</rdf:li>
+            <rdf:li>testa</rdf:li>
+            <rdf:li>toudou</rdf:li>
+            <rdf:li>toy</rdf:li>
+            <rdf:li>tête</rdf:li>
+            <rdf:li>vecteur</rdf:li>
+            <rdf:li>vector</rdf:li>
+            <rdf:li>vettore</rdf:li>
+            <rdf:li>vettoriale</rdf:li>
+            <rdf:li>visage</rdf:li>
+            <rdf:li>voeux</rdf:li>
+            <rdf:li>vœux</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

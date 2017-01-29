@@ -29,14 +29,14 @@ $small-font-size:  $base-font-size * 0.875;
 
 $spacing-unit:     30px;
 
-$brand-color:      #787065;
 $background-color: #f2f1ed;
-$text-color:       #363431;
-$title-color:      #943526;
+$text-color: #424242;
+$title-color: #b26400;
+$brand-color: #9b6d5c;
 
-$grey-color:       #a09a92;
+$grey-color: #a09a92;
 $grey-color-light: lighten($grey-color, 30%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark: darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
@@ -65,5 +65,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "utils"
 ;

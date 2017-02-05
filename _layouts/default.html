@@ -47,4 +47,41 @@
   smartlook('init', '7131259e82fa55146285707c12d4f1eb03b07631');
 </script>
 
+<script type="text/javascript">
+  var GA_CATEGORY_LANDING = 'landing';
+  var GA_ACTION_CLICK = 'click';
+
+  document.addEventListener('DOMContentLoaded', function () {
+    // subscribe goal
+    var element = document.getElementById('mc-embedded-subscribe-form');
+    if (!element) return;
+    element.onsubmit = function () {
+      var className = document.getElementById('mce-EMAIL').className;
+      if (className.indexOf('mce_inline_error') >= 0) return;
+      ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'newsletter-signup');
+    };
+
+    // twitter goal
+    [].slice.call(document.getElementsByClassName('link-twitter')).forEach(function(link) {
+      link.onclick = function() {
+        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'twitter');
+      };
+    });
+
+    // facebook goal
+    [].slice.call(document.getElementsByClassName('link-facebook')).forEach(function (link) {
+      link.onclick = function () {
+        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'facebook');
+      };
+    });
+
+    // landing goal goal
+    [].slice.call(document.getElementsByClassName('link-landing')).forEach(function (link) {
+      link.onclick = function () {
+        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'landing');
+      };
+    });
+  });
+</script>
+
 </html>

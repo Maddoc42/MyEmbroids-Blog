@@ -272,3 +272,22 @@
 .error {
   text-align: center;
 }
+
+
+.design-download {
+  a {
+    background: #039BE5;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    color: white;
+    padding: 2px 10px;
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    &:hover {
+      background: #0277BD;
+    }
+  }
+}

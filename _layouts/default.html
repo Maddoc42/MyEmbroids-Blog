@@ -81,6 +81,13 @@
         ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'landing');
       };
     });
+
+    // download freebie goal
+    [].slice.call(document.getElementsByClassName('link-freebie')).forEach(function (link) {
+      link.onclick = function () {
+        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'download-freebie');
+      };
+    });
   });
 </script>
 

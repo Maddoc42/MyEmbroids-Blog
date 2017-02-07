@@ -88,6 +88,34 @@
         ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'download-freebie');
       };
     });
+
+    // share facebook goal
+    [].slice.call(document.getElementsByClassName('share-facebook')).forEach(function (link) {
+      link.onclick = function () {
+        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'share-facebook');
+      };
+    });
+
+    // share pinterest
+    [].slice.call(document.getElementsByClassName('share-pinterest')).forEach(function (link) {
+      link.onclick = function () {
+        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'share-pinterest');
+      };
+    });
+
+    // share twitter
+    [].slice.call(document.getElementsByClassName('share-twitter')).forEach(function (link) {
+      link.onclick = function () {
+        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'share-twitter');
+      };
+    });
+
+    // share google plus
+    [].slice.call(document.getElementsByClassName('share-google-plus')).forEach(function (link) {
+      link.onclick = function () {
+        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'share-google-plus');
+      };
+    });
   });
 </script>
 

@@ -79,6 +79,65 @@ article {
   }
 }
 
+.share-page {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding-top: 20px;
+  border-top: solid 1px #eeeeee;
+  text-align: center;
+
+  a {
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    border-radius: 4px;
+    font-size: 12px;
+
+    img {
+      height: 18px;
+      margin-right: 4px;
+    }
+
+    span {
+      vertical-align: middle;
+    }
+  }
+  $facebook: #3b5998;
+  $pinterest: #cb2027;
+  $twitter: #00aced;
+  $google-plus: #d34836;
+
+  .share-facebook {
+    background-color: $facebook;
+  }
+  .share-pinterest {
+    background-color: $pinterest;
+  }
+  .share-twitter {
+    background-color: $twitter;
+  }
+  .share-google-plus {
+    background-color: $google-plus;
+  }
+
+  a:hover {
+    color: white;
+    &.share-facebook {
+      background-color: lighten($facebook, 10%);
+    }
+    &.share-pinterest {
+      background-color: lighten($pinterest, 10%);
+    }
+    &.share-twitter {
+      background-color: lighten($twitter, 10%);
+    }
+    &.share-google-plus {
+      background-color: lighten($google-plus, 10%);
+    }
+  }
+}
+
 .signup-box {
   background-color: #FFE0B2;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);

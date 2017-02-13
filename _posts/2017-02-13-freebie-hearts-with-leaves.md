@@ -2,14 +2,14 @@
 layout: post
 title:  "Small Valentine Heart"
 date: 07.02.2017
-thumbnail: imgs/freebie-heart-with-leaves/red.min.jpg
+thumbnail: imgs/freebie-heart-with-leaves/preview.png
 ---
 
 <figure>
 	<img src="{{ site.baseurl }}/assets/imgs/freebie-heart-with-leaves/red.min.jpg" alt="image">
 </figure>
 
-With just seven days left until Valentine's day, here is another small embroidery
+With just one day left until Valentine's day, here is another small embroidery
 design for your personal collection:
 **a heart with leaves** :)
 
@@ -22,6 +22,12 @@ great, blue also turned out nice:
 
 <figure>
 	<img src="{{ site.baseurl }}/assets/imgs/freebie-heart-with-leaves/blue.min.jpg" alt="image">
+</figure>
+
+Here is how the design preview looks like:
+
+<figure>
+	<img width="240" style="margin: 0 auto;" src="{{ site.baseurl }}/assets/imgs/freebie-heart-with-leaves/preview.png" alt="image">
 </figure>
 
 You can download the design below. Happy stitching!

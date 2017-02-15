@@ -8,7 +8,7 @@ thumbnail: imgs/freebie-fat-cat/yellow.min.jpg
 	<img src="{{ site.baseurl }}/assets/imgs/freebie-fat-cat/yellow.min.jpg" alt="image">
 </figure>
 
-Here is another small giveaway, this time its a **big round cat**! This cat defenitely
+Here is another small giveaway, this time its a **big round cat**! This cat definitely
 had too much to eat, must be the after Christmas season :)
 
 The cat is about 56 x 46 mm (2.2 x 18 in) and has a total of three colors. A light orange

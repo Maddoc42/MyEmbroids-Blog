@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Keep Calm And Work Out"
-thumbnail: imgs/freebie-fat-cat/yellow.min.jpg
+thumbnail: imgs/freebie-keep-calm-and-work-out/blue.min.jpg
 ---
 
 <figure>
-	<img src="{{ site.baseurl }}/assets/imgs/freebie-fat-cat/yellow.min.jpg" alt="image">
+	<img src="{{ site.baseurl }}/assets/imgs/freebie-keep-calm-and-work-out/blue.min.jpg" alt="image">
 </figure>
 
 Spring time is sports time! Time to get moving and leave the house, nothing
@@ -18,10 +18,6 @@ whether this is for a boy or girl. We couldn't really decide, so rainbow colors
 it was!
 
 <!-- more -->
-
-<figure>
-	<img src="{{ site.baseurl }}/assets/imgs/freebie-fat-cat/yellow.min.jpg" alt="image">
-</figure>
 
 As always, we are more than happy to receive feedback, simply drop us a note
 at <a href="mailto:info@myembroids.com">info@myembroids.com</a> or reach out

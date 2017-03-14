@@ -3,7 +3,7 @@
     <img src="{{ site.url }}/assets/imgs/social/facebook.svg"/>
     <span>Share</span>
   </a>
-  <a class="share-pinterest" href="http://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&description={{ page.title }}" target="_blank">
+  <a class="share-pinterest" href="http://pinterest.com/pin/create/button/?url={{ site.url | url_encode }}{{ page.url | url_encode }}&description={{ page.title | url_encode }}" target="_blank">
     <img src="{{ site.url }}/assets/imgs/social/pinterest.svg"/>
     <span>Pin</span>
   </a>

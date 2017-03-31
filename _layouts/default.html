@@ -119,4 +119,16 @@
   });
 </script>
 
+<script type="text/javascript">
+  emojify.setConfig({
+    img_dir: '/assets/imgs/emoji',
+    ignore_emoticons: true,
+    blacklist: {
+      elements: ['script', 'textarea', '^a$', 'pre', 'code'],
+      classes: ['no-emojify'],
+    },
+  });
+  emojify.run();
+</script>
+
 </html>

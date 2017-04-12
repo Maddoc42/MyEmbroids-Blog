@@ -8,7 +8,7 @@ thumbnail: imgs/freebie-bunny-with-carrot-redwork/cover.min.jpg
 	<img src="{{ site.baseurl }}/assets/imgs/freebie-bunny-with-carrot-redwork/cover.min.jpg" alt="image">
 </figure>
 
-Previously we had the [big bunny with carrot freebie TODO]({% post_url 2017-03-27-big-bunny %}),
+Previously we had the [big bunny with carrot freebie]({% post_url 2017-04-11-bunny-with-carrot %}),
 today you can download the **redwork** version! :blush: :rabbit: :rabbit2: :sunflower:
 Happy stitching! :blue_heart:
 

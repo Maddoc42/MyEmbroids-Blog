@@ -28,20 +28,7 @@
   var $mcj = jQuery.noConflict(true);
 </script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-74966922-6', 'auto');
-  ga('send', 'pageview');
-</script>
-
 <script type="text/javascript">
-  var GA_CATEGORY_LANDING = 'landing';
-  var GA_ACTION_CLICK = 'click';
-
   document.addEventListener('DOMContentLoaded', function () {
     // subscribe goal
     var element = document.getElementById('mc-embedded-subscribe-form');
@@ -49,64 +36,7 @@
     element.onsubmit = function () {
       var className = document.getElementById('mce-EMAIL').className;
       if (className.indexOf('mce_inline_error') >= 0) return;
-      ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'newsletter-signup');
     };
-
-    // twitter goal
-    [].slice.call(document.getElementsByClassName('link-twitter')).forEach(function(link) {
-      link.onclick = function() {
-        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'twitter');
-      };
-    });
-
-    // facebook goal
-    [].slice.call(document.getElementsByClassName('link-facebook')).forEach(function (link) {
-      link.onclick = function () {
-        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'facebook');
-      };
-    });
-
-    // landing goal goal
-    [].slice.call(document.getElementsByClassName('link-landing')).forEach(function (link) {
-      link.onclick = function () {
-        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'landing');
-      };
-    });
-
-    // download freebie goal
-    [].slice.call(document.getElementsByClassName('link-freebie')).forEach(function (link) {
-      link.onclick = function () {
-        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'download-freebie');
-      };
-    });
-
-    // share facebook goal
-    [].slice.call(document.getElementsByClassName('share-facebook')).forEach(function (link) {
-      link.onclick = function () {
-        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'share-facebook');
-      };
-    });
-
-    // share pinterest
-    [].slice.call(document.getElementsByClassName('share-pinterest')).forEach(function (link) {
-      link.onclick = function () {
-        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'share-pinterest');
-      };
-    });
-
-    // share twitter
-    [].slice.call(document.getElementsByClassName('share-twitter')).forEach(function (link) {
-      link.onclick = function () {
-        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'share-twitter');
-      };
-    });
-
-    // share google plus
-    [].slice.call(document.getElementsByClassName('share-google-plus')).forEach(function (link) {
-      link.onclick = function () {
-        ga('send', 'event', GA_CATEGORY_LANDING, GA_ACTION_CLICK, 'share-google-plus');
-      };
-    });
   });
 </script>
 

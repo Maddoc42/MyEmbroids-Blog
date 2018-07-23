@@ -1,35 +1,27 @@
 ---
 layout: post
-title:  "Freebie flower corner"
+title:  "MyEmbroids for desktop"
 thumbnail: imgs/flower-corner/cover.min.jpg
 ---
 
 <figure>
-	<img src="{{ site.baseurl }}/assets/imgs/flower-corner/cover.min.jpg" alt="image">
+	<img src="{{ site.baseurl }}/assets/imgs/landing.min.jpg" alt="image">
 </figure>
 
-Here is a quick small fun embroidery freebie which fits on almost anything and works with the coming spring: a
-**flower corner** :smile: :sunny: :sunflower:
+MyEmbroids is now available as an app for Windows and MacOS computers! Big thank you to you guys for the constant
+support and feedback, this wouldn't have been possible without you!
+
+<p>
+<div class="design-download" style="text-align: center;">
+  <a href="https://www.myembroids.com" class="link-freebie">Download</a>
+</div>
+</p>
 
 <!-- more -->
 
-The design comes with five colors, two for each flower type and one for the leaves.
-And and stitches pretty quickly too :wink:
+What is **MyEmbroids for desktop**? MyEmbroids for desktop is a program for your computer, which
+helps you organize your design collection. You can easily browse your whole collection, look through ZIP files
+and save designs to your USB drive.
 
-Previously the files for the freebies were hosted right on this page. Now thanks
-to the [freebies library](https://freebies.myembroids.com/) we can put all freebies
-on one page!
-
-<div class="design-download" style="text-align: center;">
-  <a href="https://freebies.myembroids.com/design/myembroids_com-flower-corner" class="link-freebie">Visit freebie</a>
-</div>
-
-What is this *freebies library*? The freebies library is a website which shows
-which freebies are currently available on the internet.
-We have built this site in cooperation with the
-designers and only link to designs where we have the permission too. This helps
-us with keeping a high quality and making sure the freebies are really up to date :wink: :tada:
-
-Do you want to see your own designs available in the freebies library? 
-Let us know! <a href="mailto:philipp@myembroids.com">philipp@myembroids.com</a>
-:blue_heart:
+For more information head over to [https://www.myembroids.com](https://www.myembroids.com). There are still some
+promotion codes left, so be quick to send us a message if you would like to download MyEmbroids for free! :wink:
